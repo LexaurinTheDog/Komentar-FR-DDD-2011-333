@@ -1,6 +1,6 @@
 # Commentaire de la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits
 
-Commentaire d'un texte de droit français : **loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits** (JORF n° 0075 du 30 mars 2011). Il couvre **41 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits** (JORF n° 0075 du 30 mars 2011). Il couvre **45 articles** (41 articles en vigueur et 4 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 23 mars 2022).
 

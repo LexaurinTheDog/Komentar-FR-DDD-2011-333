@@ -1,6 +1,6 @@
 # Commentaire de la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits, examinée article par article — **41 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits, examinée article par article — **45 articles** : les 41 articles en vigueur dans leur rédaction consolidée et 4 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -20,7 +20,7 @@ Le commentaire est réparti en deux chapitres :
 1. Titres Ier à III (chapitres Ier et II) — Statut, compétences et saisine, collèges, moyens d'information (art. 1er à 23) ;
 2. Titre III (chapitre III) à titre V — Pouvoirs du Défenseur des droits, organisation et fonctionnement, dispositions finales (art. 24 à 44).
 
-Les articles 39 à 42 ne figurent pas dans la version consolidée de la source et ne sont pas commentés. Lorsque des articles en vigueur y renvoient (ainsi l'article 44), le commentaire le signale sans reconstituer leur contenu. De même, l'article 43 n'est reproduit par la source que sous la forme de mentions « A modifié les dispositions suivantes » et de son IV.
+Les articles 39 à 42 n'ont pas de rédaction en vigueur : l'article 39, abrogé, est reproduit avec la date et le texte d'abrogation, et les articles 40 à 42, purement modificatifs, avec la mention « A modifié les dispositions suivantes » et la liste des dispositions modifiées ; ils font l'objet d'un commentaire bref. Lorsque des articles en vigueur y renvoient (ainsi l'article 44), le commentaire le signale sans reconstituer leur contenu. De même, l'article 43 n'est reproduit par la source que sous la forme de mentions « A modifié les dispositions suivantes » et de son IV.
 
 ## Méthode
 

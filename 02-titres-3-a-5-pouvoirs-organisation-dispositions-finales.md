@@ -298,7 +298,59 @@ Le deuxième alinéa prévoit une dérogation propre aux saisines par un enfant 
 
 Le troisième alinéa protège la vie privée : sauf accord des intéressés, aucune mention permettant l'identification de personnes physiques ne peut être faite dans les documents publiés sous l'autorité du Défenseur. Cette règle s'applique aux publications des articles 25, 29, 31 et 36. Elle vise les personnes physiques, et non les personnes morales ou les administrations mises en cause, qui peuvent donc être nommément désignées. L'immunité de l'article 2, réservée au Défenseur et à ses adjoints, ne dispense pas du respect de ce secret.
 
+### Article 39
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2017-01-22 par LOI n°2017-55 du 20 janvier 2017 - art. 49)
+
+L'article 39 clôturait le titre consacré à l'organisation et au fonctionnement du Défenseur des droits, après l'article 38, qui soumet le Défenseur, ses adjoints, les membres des collèges, les délégués et les agents au secret professionnel. Selon la source, il est abrogé à compter du 22 janvier 2017 par l'article 49 de la loi n° 2017-55 du 20 janvier 2017 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. Les renvois que d'autres dispositions de la loi organique font encore à l'article 39 doivent être lus comme des références historiques.
+
 #### TITRE V — DISPOSITIONS FINALES
+
+### Article 40
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Ordonnance n°58-1067 du 7 novembre 1958
+>
+> Art. 4
+
+L'article 40 ouvre le titre V (« Dispositions finales »). La source le reproduit sous la forme d'une mention « A modifié les dispositions suivantes » visant l'article 4 de l'ordonnance n° 58-1067 du 7 novembre 1958, c'est-à-dire de l'ordonnance portant loi organique sur le Conseil constitutionnel. Il s'agit d'un article purement modificatif, sans période de vigueur propre dans la base LEGI ; la règle résultant de la modification figure dans l'ordonnance de 1958.
+
+### Article 41
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi n°94-100 du 5 février 1994
+>
+> Art. 6
+
+L'article 41, également placé au titre V, a modifié selon la source l'article 6 de la loi n° 94-100 du 5 février 1994. Comme l'article 40, il est purement modificatif et n'a pas de contenu normatif autonome dans la version consolidée de la loi organique ; son effet s'est épuisé dans la modification du texte visé, qu'il faut consulter dans sa rédaction en vigueur.
+
+### Article 42
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code électoral
+>
+> Art. LO130, Art. LO489, Art. LO516, Art. LO544, Art. LO176, Art. LO319
+>
+> A créé les dispositions suivantes :
+>
+> - Code électoral
+>
+> Art. LO194-2, Art. LO230-3, Art. LO340-1
+
+L'article 42 est un article de coordination avec le code électoral. Selon la source, il a modifié les articles LO 130, LO 176, LO 319, LO 489, LO 516 et LO 544 de ce code et y a créé les articles LO 194-2, LO 230-3 et LO 340-1. Tous les articles visés portent le préfixe « LO », qui désigne les dispositions organiques du code électoral ; leur modification par la présente loi est cohérente avec sa nature organique.
+
+L'article ne comporte aucune règle autonome dans la version consolidée et la base LEGI ne lui attribue pas de période de vigueur ; les règles applicables résultent des articles du code électoral modifiés ou créés. Les renvois à l'article 42 qui subsistent dans d'autres dispositions de la loi organique désignent donc cette opération de modification du code électoral.
 
 ### Article 43
 
@@ -420,6 +472,6 @@ Le seul élément normatif conservé dans la source est le IV, règle d'adaptati
 
 L'article 44 règle l'entrée en vigueur de la loi organique et la succession des autorités auxquelles le Défenseur des droits s'est substitué. Le I prévoit une entrée en vigueur le lendemain de la publication ; à compter de cette date, le Défenseur exerce les missions du 1° de l'article 4 et succède au Médiateur de la République dans ses droits et obligations. La source indique une publication au Journal officiel du 30 mars 2011 et une date de début de vigueur au 31 mars 2011.
 
-Le II diffère l'entrée en vigueur des dispositions relatives aux missions des 2° à 4° de l'article 4 au premier jour du deuxième mois suivant la promulgation. Il énumère de manière minutieuse les mots, alinéas et articles concernés : notamment la référence aux adjoints aux articles 2 et 3, les 2° à 4° des articles 4 et 5, les collèges des articles 11 à 17, les pouvoirs propres aux discriminations (articles 27, 28, II à V, et 30), l'article 35 et le rapport sur les droits de l'enfant de l'article 36. Plusieurs renvois visent des dispositions qui ne figurent plus dans la version consolidée de la source (articles 39 et 42, I à III de l'article 43) ou des formulations depuis modifiées (« 2° à 4° » à l'article 6, « 3° » à l'article 10, « troisième et quatrième » alinéas à l'article 37) ; ils doivent être lus comme des repères historiques. À la même date, le Défenseur succède au Défenseur des enfants, à la Commission nationale de déontologie de la sécurité et à la Haute Autorité de lutte contre les discriminations et pour l'égalité.
+Le II diffère l'entrée en vigueur des dispositions relatives aux missions des 2° à 4° de l'article 4 au premier jour du deuxième mois suivant la promulgation. Il énumère de manière minutieuse les mots, alinéas et articles concernés : notamment la référence aux adjoints aux articles 2 et 3, les 2° à 4° des articles 4 et 5, les collèges des articles 11 à 17, les pouvoirs propres aux discriminations (articles 27, 28, II à V, et 30), l'article 35 et le rapport sur les droits de l'enfant de l'article 36. Plusieurs renvois visent des dispositions abrogées ou purement modificatives (article 39, abrogé ; article 42 et I à III de l'article 43, qui ne sont reproduits que par la mention des dispositions modifiées) ou des formulations depuis modifiées (« 2° à 4° » à l'article 6, « 3° » à l'article 10, « troisième et quatrième » alinéas à l'article 37) ; ils doivent être lus comme des repères historiques. À la même date, le Défenseur succède au Défenseur des enfants, à la Commission nationale de déontologie de la sécurité et à la Haute Autorité de lutte contre les discriminations et pour l'égalité.
 
 Le III assure la continuité administrative et procédurale. Les détachements, mises à disposition et contrats des agents contractuels de droit public auprès des autorités remplacées se poursuivent auprès du Défenseur. Les procédures ouvertes devant le Médiateur de la République, le Défenseur des enfants, la Commission nationale de déontologie de la sécurité et la Haute Autorité, non clôturées aux dates d'entrée en vigueur, se poursuivent devant le Défenseur, et les actes valablement accomplis par ces autorités sont réputés l'avoir été par lui. Cette règle évite toute rupture dans le traitement des réclamations et garantit la validité des actes d'instruction antérieurs. La formule finale (« La présente loi sera exécutée comme loi de l'Etat ») est la formule exécutoire traditionnelle. Les dispositions transitoires ont aujourd'hui épuisé leurs effets, mais elles éclairent l'origine de l'institution : la fusion de quatre autorités préexistantes, qui explique l'organisation en domaines de compétence distincts et en collèges spécialisés.
